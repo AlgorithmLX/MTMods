@@ -40,15 +40,13 @@
             }
         },
         {
-            "url": "",
-            "folder": "",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/Music/musics.zip",
+            "folder": "ambience_music",
             "installationPolicy": {
                 "extract": false,
                 "downloadAlways": false
             }
         },
-
-
         {
             "url": "https://curseforge.com/api/v1/mods/220318/files/2842510/download",
             "installationPolicy": {
@@ -153,12 +151,6 @@
         }, 
         {
             "url": "https://curseforge.com/api/v1/mods/342087/files/2827467/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=051fbf86c0fe6ac1e1d5883b691136b5",
             "installationPolicy": {
                 "continueOnFailedDownload": false
             }
