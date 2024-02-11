@@ -7,12 +7,6 @@
             }
         },
         {
-            "url": "https://bit.ly/of_mthb",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
             "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/config.zip",
             "folder": "config",
             "installationPolicy": {
