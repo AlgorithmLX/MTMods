@@ -139,7 +139,7 @@
         },
         {
             "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/resources.zip",
-            "folder": "ambience_music",
+            "folder": "resources",
             "installationPolicy": {
                 "extract": true,
                 "downloadAlways": false,
@@ -148,7 +148,7 @@
         },
         {
             "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/scripts.zip",
-            "folder": "ambience_music",
+            "folder": "scripts",
             "installationPolicy": {
                 "extract": true,
                 "downloadAlways": false,
