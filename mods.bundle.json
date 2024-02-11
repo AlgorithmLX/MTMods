@@ -43,7 +43,7 @@
             "url": "https://github.com/LGSTeam/MTMods/releases/download/Music/musics.zip",
             "folder": "ambience_music",
             "installationPolicy": {
-                "extract": false,
+                "extract": true,
                 "downloadAlways": false
             }
         },
