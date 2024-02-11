@@ -13,7 +13,7 @@
             }
         }, 
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/config.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/config.zip",
             "folder": "config",
             "installationPolicy": {
                 "extract": true,
@@ -22,7 +22,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods0.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods0.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -31,7 +31,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods1.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods1.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -40,7 +40,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods2.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods2.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -49,7 +49,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods3.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods3.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -58,7 +58,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods4.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods4.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -67,7 +67,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods5.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods5.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -76,7 +76,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods6.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods6.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -85,7 +85,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods7.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods7.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -94,7 +94,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods8.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods8.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -103,7 +103,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods9.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods9.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -112,7 +112,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/Legacy.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/Legacy.zip",
             "folder": "resourcepacks",
             "installationPolicy": {
                 "extract": false,
@@ -121,14 +121,14 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/perfectspawn.json",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/perfectspawn.json",
             "folder": "",
             "installationPolicy": {
                 "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/musics.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/musics.zip",
             "folder": "ambience_music",
             "installationPolicy": {
                 "extract": true,
@@ -137,7 +137,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/resources.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/resources.zip",
             "folder": "resources",
             "installationPolicy": {
                 "extract": true,
@@ -146,7 +146,7 @@
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/scripts.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/scripts.zip",
             "folder": "scripts",
             "installationPolicy": {
                 "extract": true,
