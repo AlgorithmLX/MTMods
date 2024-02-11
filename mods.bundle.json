@@ -48,6 +48,13 @@
             }
         },
         {
+            "_comment": "Original URL - https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=8f94442d28aaf0e9585988f184c2516c .",
+            "url": "https://bit.ly/of_mthb",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        }, 
+        {
             "url": "https://curseforge.com/api/v1/mods/220318/files/2842510/download",
             "installationPolicy": {
                 "continueOnFailedDownload": false
