@@ -1,1132 +1,147 @@
 {
     "url": [
         {
-            "url": "https://github.com/LGSTeam/MTMods/raw/Music/Meta/scripts.zip",
-            "folder": "scripts",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false
-            }
-        },
-        {
-            "url": "https://github.com/LGSTeam/MTMods/raw/Music/Meta/config.zip",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/config.zip",
             "folder": "config",
             "installationPolicy": {
                 "extract": true,
-                "downloadAlways": false
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://github.com/LGSTeam/MTMods/raw/Music/Meta/Legacy.zip",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods0.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods1.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods2.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods3.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods4.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods5.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods6.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods7.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods8.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/mods9.zip",
+            "folder": "mods",
+            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/Legacy.zip",
             "folder": "resourcepacks",
             "installationPolicy": {
                 "extract": false,
-                "downloadAlways": false
-            }
-        },
-        {
-            "url": "https://github.com/LGSTeam/MTMods/raw/Music/Meta/perfectspawn.json",
-            "folder": "",
-            "installationPolicy": {
-                "downloadAlways": false
-            }
-        },
-        {
-            "url": "https://github.com/LGSTeam/MTMods/raw/Music/Meta/resources.zip",
-            "folder": "resources",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false
-            }
-        },
-        {
-            "url": "https://github.com/LGSTeam/MTMods/releases/download/Music/musics.zip",
-            "folder": "ambience_music",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false
-            }
-        },
-        {
-            "url": "https://bit.ly/of_mthb",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/220318/files/2842510/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/241291/files/3164382/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://github.com/gamerforEA/Minecraft-ClientFixer/releases/download/1.12.2-1.9/ClientFixer-1.12.2-1.9.jar",
-            "installationPolicy": {
+                "downloadAlways": false,
                 "continueOnFailedDownload": true
             }
         },
         {
-            "url": "https://curseforge.com/api/v1/mods/237167/files/2985811/download",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/perfectspawn.json",
+            "folder": "mods",
             "installationPolicy": {
+                "downloadAlways": false,
                 "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://curseforge.com/api/v1/mods/296392/files/2735851/download",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/musics.zip",
+            "folder": "ambience_music",
             "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
                 "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://curseforge.com/api/v1/mods/311938/files/2683267/download",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/resources.zip",
+            "folder": "ambience_music",
             "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
                 "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://curseforge.com/api/v1/mods/284331/files/3029768/download",
+            "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/scripts.zip",
+            "folder": "ambience_music",
             "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/3203692/files/446756/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/304920/files/2669468/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/281132/files/2549655/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/247907/files/2734701/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/290612/files/2801696/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/312040/files/3066464/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/227639/files/3051450/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/243363/files/3099119/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/289412/files/3156637/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/237102/files/3157548/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
-            "url": "https://curseforge.com/api/v1/mods/342087/files/2827467/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/650242/files/4733347/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/236188/files/3005254/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/282837/files/3035717/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/225194/files/2491032/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/238120/files/2491122/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/311054/files/3054253/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/248787/files/2987247/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223794/files/2747063/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/363661/files/3007072/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223735/files/2676866/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/225658/files/2586524/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/246996/files/2722575/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/227083/files/2518667/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/70496/files/2518031/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/272515/files/2685984/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/300100/files/2601052/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/229876/files/2483393/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223525/files/2916129/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/228525/files/2836960/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/225643/files/2846950/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/295114/files/3092102/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/310637/files/2939405/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/231382/files/3051539/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/266824/files/2705827/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/274259/files/3004475/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/230497/files/2450900/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/307152/files/3177947/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/242818/files/2779848/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/69162/files/2920433/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/271384/files/2920434/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/237065/files/2652853/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/297038/files/3165450/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/239197/files/3040575/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/257814/files/3198625/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/267602/files/2915363/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/272335/files/2645867/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/226406/files/2857869/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/241140/files/2499252/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/269398/files/2643976/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/363543/files/3081433/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223565/files/3051542/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/266491/files/2611426/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/238891/files/3098835/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/366140/files/2898681/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/250419/files/2689502/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/229449/files/2874756/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/254817/files/2611428/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/268387/files/2777071/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/270558/files/2452858/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/299086/files/2886529/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/230976/files/2463272/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/291936/files/2682853/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/278494/files/3137883/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/59751/files/2684780/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/248453/files/2785465/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/280294/files/3042760/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/564236/files/3648807/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/286116/files/2647978/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/268655/files/2951840/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/247401/files/3157564/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/253449/files/2568751/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/231951/files/2974106/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/291713/files/2549453/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/253230/files/2465617/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223094/files/2482481/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/228756/files/2747935/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/309674/files/3003364/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/258587/files/2959712/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/242064/files/2581199/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/280316/files/2696766/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/261725/files/2643616/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/224535/files/2443253/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/248370/files/2490058/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/238222/files/3040523/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/296289/files/2919737/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/240630/files/2728585/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/297057/files/2668704/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/298965/files/3137253/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/236541/files/2949886/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/261339/files/2541554/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/225605/files/2489549/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/74924/files/2713386/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/299045/files/2650681/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/268560/files/2835175/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/268566/files/2835177/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/226294/files/2497436/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/357178/files/3076610/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/278359/files/2557662/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/220954/files/2881277/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/280506/files/2899375/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/270790/files/2713714/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/261990/files/2943457/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/266736/files/2668113/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/60089/files/2671937/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/245889/files/2686355/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/244940/files/2685162/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/253211/files/2684561/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/256247/files/2704832/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/246640/files/2704562/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/277064/files/3040592/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/282940/files/3054945/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/74120/files/2711439/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/306626/files/2882138/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/252848/files/2893527/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/248039/files/3177625/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/227965/files/2432421/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/254334/files/2871957/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/224663/files/3061229/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/307806/files/2820815/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/290201/files/2632997/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/306770/files/3162874/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/221418/files/2543507/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/318255/files/2747710/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/283644/files/2694382/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/281849/files/2978408/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/226410/files/2702991/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/306028/files/2833640/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/237903/files/3330308/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/280554/files/3200327/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/70631/files/2939416/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/270789/files/2920436/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/226447/files/2477566/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/246183/files/3056896/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/311595/files/3028832/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/251792/files/2789696/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/246974/files/3050838/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/251886/files/2456132/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/282561/files/2706845/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223852/files/2952606/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/250290/files/2665849/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/242289/files/2625075/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/247661/files/2626416/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/74072/files/2902483/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/233564/files/2966851/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/254602/files/2891841/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223628/files/2629023/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/310406/files/2655367/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/232564/files/3102463/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/319441/files/3148983/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/223666/files/2915506/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/285492/files/2705304/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/227443/files/2920505/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/69163/files/2926431/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/222880/files/2926428/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/250850/files/2721018/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/257392/files/2750559/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/262823/files/2619249/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/294202/files/2563073/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/294212/files/2563118/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/294213/files/2563119/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/237541/files/2700798/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/316772/files/2688528/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/244258/files/3201828/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/286230/files/2572528/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/292785/files/2915154/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/79287/files/2481605/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/253043/files/3064112/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/317780/files/3200206/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/263420/files/3200193/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/310349/files/2801336/download",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://curseforge.com/api/v1/mods/296384/files/2974926/download",
-            "installationPolicy": {
+                "extract": true,
+                "downloadAlways": false,
                 "continueOnFailedDownload": false
             }
         }
-
     ]
 }
