@@ -124,7 +124,6 @@
             "url": "https://github.com/LGSTeam/MTMods/releases/download/1.5.8/perfectspawn.json",
             "folder": "",
             "installationPolicy": {
-                "downloadAlways": false,
                 "continueOnFailedDownload": false
             }
         },
