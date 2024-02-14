@@ -7,6 +7,12 @@
             }
         },
         {
+            "url": "https://bit.ly/essentials_mthb",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
+        },
+        {
             "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/config.zip",
             "folder": "config",
             "installationPolicy": {
@@ -16,7 +22,7 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods0.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/mods0.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -25,7 +31,7 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods1.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/mods1.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -34,7 +40,7 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods2.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/mods2.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -43,7 +49,7 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods3.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/mods3.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
@@ -52,52 +58,7 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods4.zip",
-            "folder": "mods",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false,
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods5.zip",
-            "folder": "mods",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false,
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods6.zip",
-            "folder": "mods",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false,
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods7.zip",
-            "folder": "mods",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false,
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods8.zip",
-            "folder": "mods",
-            "installationPolicy": {
-                "extract": true,
-                "downloadAlways": false,
-                "continueOnFailedDownload": false
-            }
-        },
-        {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/mods9.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/mods4.zip",
             "folder": "mods",
             "installationPolicy": {
                 "extract": true,
