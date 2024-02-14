@@ -13,14 +13,16 @@
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/betweenlands.zip",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/config.zip",
+            "folder": "config",
             "installationPolicy": {
-                "continueOnFailedDownload": true
+                "extract": true,
+                "downloadAlways": false,
+                "continueOnFailedDownload": false
             }
         },
         {
-            "url": "https://nnp.nnchan.ru/lgame/mastertech/meta/config.zip",
-            "folder": "config",
+            "url": "https://nnp.nnchan.ru/lgame/mastertech/betweenlands.zip",
             "installationPolicy": {
                 "extract": true,
                 "downloadAlways": false,
