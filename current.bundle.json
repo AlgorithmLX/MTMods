@@ -113,7 +113,30 @@
             "installationPolicy": {
                 "continueOnFailedDownload": true
             }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/lesslag-1.0-1.12.2.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/MultithreadedNoise-1.12.2-0.0.2.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/performant-1.11.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/sampler-1.84.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
         }
-
     ]
 }
