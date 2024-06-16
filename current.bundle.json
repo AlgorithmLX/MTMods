@@ -103,12 +103,6 @@
             }
         }, 
         {
-            "url": "https://github.com/LGSTeam/MTMods/blob/main/FTBUtilities-5.4.1.131.jar",
-            "installationPolicy": {
-                "continueOnFailedDownload": false
-            }
-        }, 
-        {
             "url": "https://github.com/LGSTeam/MTMods/raw/main/nethercraft-1.12.2-1.0.2.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": false
