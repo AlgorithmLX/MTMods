@@ -46,6 +46,7 @@
             "url": "https://github.com/LGSTeam/MTMods/raw/main/MasterTech-1.1.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": false
+                "downloadAlways": true
             }
         },
         {
