@@ -13,6 +13,12 @@
             }
         },
         {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/FTBUtilities-5.4.1.130.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": true
+            }
+        },
+        {
             "url": "https://github.com/gamerforEA/Minecraft-ClientFixer/releases/download/1.12.2-1.9/ClientFixer-1.12.2-1.9.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": true
