@@ -52,7 +52,7 @@
             "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/MasterTech.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": false,
-                "downloadAlways": true
+                "supersede": "MasterTech-1.1.jar"
             }
         },
         {
@@ -147,6 +147,18 @@
         },
         {
             "url": "https://github.com/LGSTeam/MTMods/releases/download/AcademyCraft/AcademyCraft-1.1.3.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/FastFurnace.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/FastWorkbench.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": false
             }

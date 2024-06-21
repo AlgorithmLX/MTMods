@@ -46,7 +46,7 @@
             "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/MasterTech.jar",
             "installationPolicy": {
                 "continueOnFailedDownload": false,
-                "downloadAlways": true
+                "supersede": "MasterTech-1.1.jar"
             }
         },
         {
@@ -138,7 +138,18 @@
             "installationPolicy": {
                 "continueOnFailedDownload": false
             }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/FastFurnace.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/FastWorkbench.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
         }
-
     ]
 }
