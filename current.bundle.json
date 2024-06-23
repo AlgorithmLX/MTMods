@@ -161,7 +161,21 @@
             "installationPolicy": {
                 "continueOnFailedDownload": false
             }
-        }
-        
+        },
+        {
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/timespeedmod.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+			"url": "https://github.com/LGSTeam/MTMods/raw/main/Data/config.zip",
+			"folder": "config",
+			"installationPolicy": {
+				"extract": true,
+				"downloadAlways": true,
+		        "deleteAfterExtract": true
+			}
+		}
     ]
 }
