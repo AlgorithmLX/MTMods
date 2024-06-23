@@ -169,13 +169,11 @@
             }
         },
         {
-			"url": "https://github.com/LGSTeam/MTMods/raw/main/Data/config.zip",
-			"folder": "config",
-			"installationPolicy": {
-				"extract": true,
-				"downloadAlways": true,
-		        "deleteAfterExtract": true
-			}
-		}
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/B3M.cfg",
+	    "folder": "config",
+	    "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+	}
     ]
 }
