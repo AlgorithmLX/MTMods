@@ -172,7 +172,8 @@
 	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/B3M.cfg",
 	    "folder": "config",
 	    "installationPolicy": {
-                "continueOnFailedDownload": false
+                "continueOnFailedDownload": false,
+		"downloadAlways": true
             }
 	}
     ]
