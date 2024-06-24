@@ -177,10 +177,11 @@
             }
 	},
 	{
-	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/ascii.png",
-	    "folder": "resources.minecraft.textures.font"
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/font.zip",
+	    "folder": "resources"
 	    "installationPolicy": {
 		"continueOnFailedDownload": false,
+		"extract": true,
 		"downloadAlways": true
 	    }
 	}
