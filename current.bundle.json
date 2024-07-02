@@ -168,6 +168,24 @@
                 "continueOnFailedDownload": false
             }
         },
+	{
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/randompatches.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+	{
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/obfuscate.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+	{
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/ido.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
         {
 	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/B3M.cfg",
 	    "folder": "config",
