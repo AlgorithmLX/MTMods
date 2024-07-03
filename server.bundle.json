@@ -175,12 +175,26 @@
             }
         },
         {
-	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/B3M.cfg",
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/immersivepetroleum.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
+        {
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/cfg/B3M.cfg",
 	    "folder": "config",
 	    "installationPolicy": {
                 "continueOnFailedDownload": false,
 		"downloadAlways": true
             }
+	},
+	{
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/cfg/gc/core.conf",
+	    "folder": "config/Galacticraft",
+	    "installationPolicy": {
+		"continueOnFailedDownload": false,
+		"downloadAlways": true
+	    }
 	}
     ]
 }
