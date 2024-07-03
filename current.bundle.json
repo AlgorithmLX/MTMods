@@ -192,6 +192,12 @@
                 "continueOnFailedDownload": false
             }
         },
+	{
+            "url": "https://github.com/LGSTeam/MTMods/raw/main/Data/ReAuth.jar",
+            "installationPolicy": {
+                "continueOnFailedDownload": false
+            }
+        },
         {
 	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/cfg/B3M.cfg",
 	    "folder": "config",
