@@ -23,7 +23,7 @@ static stagedItems as IIngredient[][string] = {
 	],
 	eight.stage: [
 		<twilightforest:uncrafting_table>
-	]
+	],
 	disabled.stage: [
 		<tp:wub_ore>,
 		<tp:nether_wub_ore>,
