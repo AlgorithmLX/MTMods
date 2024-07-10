@@ -27,7 +27,7 @@ static replacementItemsForStage as IIngredient[][][string] = {
 		[<minecraft:diamond_ore:0>]
 	],
 	eight.stage: [
-		[<twilightforest:uncrafting_table>]
+		[<twilightforest:uncrafting_table>, <minecraft:planks:3>]
 	],
 
 	disabled.stage : [
