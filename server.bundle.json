@@ -195,6 +195,22 @@
 		"continueOnFailedDownload": false,
 		"downloadAlways": true
 	    }
+	},
+	{
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/scripts/stages/ore_tiers.zs",
+	    "folder": "scripts/Stages",
+	    "installationPolicy": {
+		"continueOnFailedDownload": false,
+		"downloadAlways": true
+	    }
+	},
+	{
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/scripts/stages/items.zs",
+	    "folder": "scripts/Stages",
+	    "installationPolicy": {
+		"continueOnFailedDownload": false,
+		"downloadAlways": true
+	    }
 	}
     ]
 }
