@@ -28,7 +28,7 @@ static replacementItemsForStage as IIngredient[][][string] = {
 	],
 	eight.stage: [
 		[<twilightforest:uncrafting_table>]
-	]
+	],
 
 	disabled.stage : [
 		[<techreborn:ore2:1>, <thermalfoundation:ore:1>],
