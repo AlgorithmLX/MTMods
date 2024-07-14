@@ -205,6 +205,14 @@
 	    }
 	},
 	{
+	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/scripts/recipes/ExtendedCrafting.zs",
+	    "folder": "scripts/recipes",
+	    "installationPolicy": {
+		"continueOnFailedDownload": false,
+		"downloadAlways": true
+	    }
+	},
+	{
 	    "url": "https://raw.githubusercontent.com/AlgorithmLX/MTMods/main/Data/scripts/stages/items.zs",
 	    "folder": "scripts/Stages",
 	    "installationPolicy": {
